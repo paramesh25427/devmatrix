@@ -1,3 +1,6 @@
+# devmatrix
+System that automates an software managers job
+
 # DevMatrix AI
 
 AI-powered project planning and workforce intelligence platform.
