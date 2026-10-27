@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="devmatrix AI dashboard Workspace.png" alt="DevMatrix AI — AI-Powered Project Planning, Workforce Intelligence and Performance Monitoring" width="100%"/>
+
+### Plan Smarter. Build Better Teams. Track Delivery.
+
+**AI-Powered Project Planning, Workforce Intelligence & Performance Monitoring**
+
+</div>
+
+---
+
 # 🚀 DevMatrix AI
 
 ### AI-Powered Project Planning, Workforce Intelligence & Performance Monitoring
